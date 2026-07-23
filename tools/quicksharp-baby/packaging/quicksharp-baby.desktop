@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=快晰寶貝
+GenericName=QuickSharp Baby
+Comment=固定視線、快速換片的輕量巡圖器
+Exec=python3 /opt/quicksharp-baby/main.py %F
+Icon=quicksharp-baby
+Terminal=false
+Categories=Graphics;Photography;
+MimeType=image/jpeg;image/tiff;
